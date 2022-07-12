@@ -1,8 +1,8 @@
 ## Olá!!! Eu sou a Adrielly Rodrigues, estudante de Engenharia de Software!
 <div align="center">
   <a href="https://github.com/drykette">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drykette&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drykette&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=drykette&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drykette&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
@@ -17,7 +17,7 @@
   <img align="center" alt="Dry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dry-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dry-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Dry-Icon" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Dry-Icon" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/23423067/178582003-a9c2cf8f-e68f-40d3-9577-0b6bc99a3461.png">
 </div>
 
 ##
